@@ -1,0 +1,65 @@
+.no-active-event {
+  color: #475569;
+  font-family: 'Roboto';
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.yet-to-image {
+  height: 200px;
+  width: 200px;
+}
+
+.yet-to-para {
+  color: #475569;
+  font-family: 'Roboto';
+  font-size: 14px;
+  font-weight: 500;
+  text-align: center;
+}
+
+.yet-to-button {
+  background-color: #0967d2;
+  padding: 10px;
+  width: 200px;
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 14px;
+  font-weight: 600;
+  border: none;
+  border-radius: 8px;
+}
+
+.registered-image {
+  height: 50px;
+  width: 50px;
+}
+
+.registered-para {
+  color: #475569;
+  font-family: 'Roboto';
+  font-size: 14px;
+  font-weight: 500;
+  text-align: center;
+}
+
+.registration-closed-img {
+  height: 200px;
+  width: 200px;
+}
+
+.registration-closed-heading {
+  color: #323f4b;
+  font-family: 'Roboto';
+  font-size: 16px;
+  font-weight: 500;
+  text-align: center;
+}
+
+.closed-para {
+  color: #475569;
+  font-family: 'Roboto';
+  font-size: 14px;
+  font-weight: 500;
+  text-align: center;
+}

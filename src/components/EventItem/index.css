@@ -1,0 +1,32 @@
+.list-item {
+  display: flex;
+  flex-direction: column;
+}
+
+.event-image {
+  width: 300px;
+  height: 150px;
+}
+
+.event-name {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: 600;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.event-location {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 14px;
+  font-weight: 500;
+  margin-top: 0px;
+}
+
+.button {
+  outline: none;
+  background-color: transparent;
+  border: none;
+}
